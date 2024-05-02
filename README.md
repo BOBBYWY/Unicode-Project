@@ -4,4 +4,4 @@ https://pharma-sas.com/how-to-customize-rtf-output-using-unicode-and-rtf-code/  
 
 https://www.unicode.org/charts/                                                                   Unicode 15.1 Character Code Charts
 
-https://www.utf8-chartable.de/                                                                    https://www.utf8-chartable.de/
+https://www.utf8-chartable.de/                                                                    UTF8
